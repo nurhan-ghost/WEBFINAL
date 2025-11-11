@@ -1,0 +1,228 @@
+[
+  {
+    "id": "s-class-2024",
+    "category": "sedan",
+    "name": "Mercedes S-Class 2024",
+    "price": 170000,
+    "power": 496,
+    "acceleration": 4.4,
+    "img": "images/s-class-official.jpg",
+    "description": "Luxury flagship sedan with cutting-edge technology and premium interior."
+  },
+  {
+    "id": "e-class-2024",
+    "category": "sedan",
+    "name": "Mercedes E-Class 2024",
+    "price": 65000,
+    "power": 255,
+    "acceleration": 6.3,
+    "img": "images/e-class-official.jpg",
+    "description": "Comfortable executive sedan with modern amenities."
+  },
+  {
+    "id": "c-class-2024",
+    "category": "sedan",
+    "name": "Mercedes C-Class 2024",
+    "price": 42000,
+    "power": 197,
+    "acceleration": 7.1,
+    "img": "images/c-class-official.jpg",
+    "description": "Accessible premium sedan for daily driving."
+  },
+  
+   {
+  "id": "amg-gt",
+  "category": "sport",
+  "name": "Mercedes-AMG GT",
+  "price": 150000,
+  "power": 577,
+  "acceleration": 3.6,
+  "img": "images/amg-gt-official.jpg",
+  "images": [
+    "images/amg-gt-official.jpg",
+    "images/amg-gt-rear.jpg",
+    "images/amg-gt-side.jpg"
+  ],
+  "description": "High-performance sports car with race-bred engineering and exquisite design."
+   },
+  {
+    "id": "sl-2024",
+    "category": "sport",
+    "name": "Mercedes SL 2024",
+    "price": 130000,
+    "power": 429,
+    "acceleration": 4.8,
+    "img": "images/sl-class-official.jpg",
+    "description": "Convertible grand tourer with luxury features."
+  },
+  {
+    "id": "a45",
+    "category": "sport",
+    "name": "Mercedes A45 AMG",
+    "price": 60000,
+    "power": 416,
+    "acceleration": 4.0,
+    "img": "images/a45-official.jpg",
+    "description": "Hot hatch delivering exceptional power and handling."
+  },
+  {
+    "id": "gle-2024",
+    "category": "suv",
+    "name": "Mercedes GLE 2024",
+    "price": 72000,
+    "power": 362,
+    "acceleration": 6.6,
+    "img": "images/gle-official.jpg",
+    "description": "Versatile SUV for family and travel."
+  },
+  {
+    "id": "gle-coupe",
+    "category": "suv",
+    "name": "Mercedes GLE Coupe",
+    "price": 78000,
+    "power": 429,
+    "acceleration": 5.9,
+    "img": "images/gle-coupe-official.jpg",
+    "description": "Stylish coupe-SUV with premium options."
+  },
+  {
+    "id": "g-class",
+    "category": "suv",
+    "name": "Mercedes G-Class",
+    "price": 140000,
+    "power": 416,
+    "acceleration": 5.6,
+    "img": "images/g-class-official.jpg",
+    "description": "Iconic luxury off-roader with premium finish."
+  },
+  {
+    "id": "a180",
+    "category": "compact",
+    "name": "Mercedes A 180",
+    "price": 25000,
+    "power": 109,
+    "acceleration": 10.8,
+    "img": "images/a180-official.jpg",
+    "description": "Efficient urban hatchback."
+  },
+  {
+    "id": "b-200",
+    "category": "compact",
+    "name": "Mercedes B 200",
+    "price": 30000,
+    "power": 150,
+    "acceleration": 8.9,
+    "img": "images/b200-official.jpg",
+    "description": "Practical family compact MPV."
+  },
+  {
+    "id": "cla-2024",
+    "category": "compact",
+    "name": "Mercedes CLA 2024",
+    "price": 35000,
+    "power": 190,
+    "acceleration": 7.5,
+    "img": "images/cla-official.jpg",
+    "description": "Stylish compact coupe-like sedan."
+  },
+{
+  "id": "eqa-250",
+  "name": "Mercedes-Benz EQA 250",
+  "category": "compact",
+  "price": 55000,
+  "power": 190,
+  "acceleration": 8.9,
+  "img": "https://carsales.pxcrush.net/car/spec/S000F0MT.jpg?pxc_method=GravityFill&width=480&height=320&watermark=1302280592",
+  "description": "The EQA 250 is a compact all-electric SUV offering quiet performance and a modern design."
+},
+{
+  "id": "eqb-350",
+  "name": "Mercedes-Benz EQB 350 4MATIC",
+  "category": "suv",
+  "price": 68000,
+  "power": 292,
+  "acceleration": 6.2,
+  "img": "https://images.carexpert.com.au/resize/1200/-/cms/v1/media/2023-07-mercedes-benz-eqb-350-4matic-hero-16x9-1.jpg",
+  "description": "A powerful compact electric SUV with 4MATIC all-wheel drive and high versatility."
+},
+{
+  "id": "eqs-suv",
+  "name": "Mercedes-Benz EQS SUV",
+  "category": "suv",
+  "price": 120000,
+  "power": 536,
+  "acceleration": 4.5,
+  "img": "https://www.mbusa.com/content/dam/mb-nafta/us/global-nav-new/vehicles/MY25-MAYBACH-EQS-SUV-CLASS-Resized.png",
+  "description": "Luxury electric SUV offering top comfort, power, and range."
+},
+{
+  "id": "amg-a35",
+  "name": "Mercedes-AMG A35 4MATIC",
+  "category": "sport",
+  "price": 48000,
+  "power": 302,
+  "acceleration": 4.7,
+  "img": "https://www.mercedes-benz.ph/media/3senmdyz/a_35_4matic_hatchback.png",
+  "description": "The AMG A35 is a compact performance car with sporty handling and bold design."
+},
+{
+  "id": "c63-amg",
+  "name": "Mercedes-AMG C63 S",
+  "category": "sedan",
+  "price": 85000,
+  "power": 503,
+  "acceleration": 3.9,
+  "img": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-d6q5-p-mers-png-16.png",
+  "description": "The C63 S combines elegance and raw AMG power for a thrilling drive."
+},
+{
+  "id": "eqe",
+  "name": "Mercedes-Benz EQE",
+  "category": "sedan",
+  "price": 72000,
+  "power": 288,
+  "acceleration": 6.2,
+  "img": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy/auto-client/bab5665a7d7cb8ba5fd25004db675050/eqe.png",
+  "description": "A fully electric luxury sedan offering smooth performance and advanced comfort."
+},
+{
+  "id": "maybach-s680",
+  "name": "Mercedes-Maybach S 680 4MATIC",
+  "category": "sedan",
+  "price": 230000,
+  "power": 621,
+  "acceleration": 4.4,
+  "img": "https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/ceed26b72a8513cbceeb18caf56298d7.png",
+  "description": "Ultimate luxury and craftsmanship — the flagship of Mercedes-Benz."
+},
+{
+  "id": "gle-coupe",
+  "name": "Mercedes-Benz GLE Coupe",
+  "category": "suv",
+  "price": 82000,
+  "power": 429,
+  "acceleration": 5.2,
+  "img": "https://di-uploads-pod7.dealerinspire.com/mercedesbenzburlingtonca/uploads/2018/02/2018-Mercedes-Benz-GLE-S-63-4MATIC-Coupe-PNG-Banner-Image-600-copy.png",
+  "description": "The GLE Coupe blends SUV strength with coupe sportiness."
+},
+{
+  "id": "amg-gt-63",
+  "name": "Mercedes-AMG GT 63 S 4-Door",
+  "category": "sport",
+  "price": 165000,
+  "power": 630,
+  "acceleration": 3.1,
+  "img": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy/auto-client/210f9445e7e718528226545aee49f441/gt4doorcoupe.png",
+  "description": "The GT 63 S 4-Door brings race performance to a luxury sedan design."
+},
+{
+  "id": "gls-maybach",
+  "name": "Mercedes-Maybach GLS 600",
+  "category": "suv",
+  "price": 180000,
+  "power": 550,
+  "acceleration": 4.8,
+  "img": "https://images.dealer.com/ddc/vehicles/2022/Mercedes-Benz/Maybach%20GLS%20600/SUV/perspective/front-left/2022_24.png",
+  "description": "An opulent SUV with Maybach luxury and commanding presence."
+}
+]

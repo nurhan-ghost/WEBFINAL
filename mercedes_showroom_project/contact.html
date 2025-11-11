@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Contact — Mercedes-Benz Showroom</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="images/favicon.png">
+</head>
+<body>
+<header class="site-header">
+  <a href="index.html" class="logo" aria-label="Mercedes-Benz Home"><img src="images/logo.png" alt="Mercedes-Benz"></a>
+  <nav class="main-nav">
+    <a href="index.html">Home</a>
+    <a href="catalogue.html">Catalogue</a>
+    <a href="contact.html">Contact</a>
+    <a href="profile.html" id="profileLink">Profile</a>
+    <a href="dealers.html" id="dealersLink">Dealers</a>
+  </nav>
+  <div class="controls">
+    <label class="theme-switch" title="Toggle Dark/Light Mode" aria-label="Toggle Dark/Light Mode">
+      <input id="themeToggle" type="checkbox">
+      <span class="slider" aria-hidden="true"></span>
+    </label>
+    <span class="theme-icons" aria-hidden="true"></span>
+  </div>
+</header>
+
+<main class="container">
+  <h1>Contact Us</h1>
+  <form id="contactForm" class="card">
+    <label>Name <input id="ct_name" required></label>
+    <label>Email <input id="ct_email" type="email" required></label>
+    <label>Phone <input id="ct_phone" required></label>
+    <label>Message <textarea id="ct_msg" rows="4" required></textarea></label>
+    <div class="error" id="err_contact"></div>
+    <button class="btn" type="submit">Send</button>
+  </form>
+</main>
+
+<footer class="site-footer">
+  <p>© Mercedes-Benz Showroom — sample project</p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
